@@ -42,8 +42,6 @@ I organized the infrastructure as code into reusable modules for VPC, EC2, RDS, 
 ### ⚙️ CI/CD Pipeline
 I integrated the project with a CI/CD pipeline (using GitHub Actions or Jenkins) for automated testing and deployment of Terraform code, streamlining the development process.
 
-## 🌟 Advanced Features I Mastered
-
 ### 🔄 Terraform Backend
 I configured a Terraform backend using S3 and DynamoDB for state management to enable efficient team collaboration.
 
